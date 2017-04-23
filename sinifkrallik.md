@@ -7,8 +7,3 @@ on load:
 	set {Sınıf_Savaşçı} to "&8[&aSavaşçı&8]"
 	set {Sınıf_Gardiyan} to "&8[&fGardiyan&8]"
 	set {Sınıf_Büyücü} to "&8[&3Büyücü&8]"
-	
-	
-	
-  
-  
